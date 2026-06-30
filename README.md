@@ -1,6 +1,5 @@
 <h1 align="center">Привет, я Rσмα7ѕкα 👋</h1>
-
-<h3 align="center">Разработчик из Беларуси, который любит что-то чудить.</h3>
+<h3 align="center">14-летний разработчик из Беларуси, который любит создавать веб-проекты на Django.</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Rovmanz&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -10,9 +9,9 @@
 
 ### 🚀 О себе
 
-- 🔭 Сейчас разрабатываю **личного бота-помощника** — личный помощник на любой день.
+- 🔭 Сейчас разрабатываю личного бота-помощника — личный помощник на любой день.
 - 🌱 Изучаю Python глубже: основы языка, структуры данных, библиотеки.
-- 🌐 Создатель сайта **[northernlights.website](https://northernlights.website/)**.
+- 🌐 Создатель сайта [northernlights.website](https://northernlights.website/).
 - 💡 Увлекаюсь автосимуляторами (Euro Truck Simulator 2 / American Truck Simulator) и другими аркадами.
 - 📫 Открыт для общения и совместных проектов.
 
@@ -27,6 +26,22 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+</p>
+
+---
+
+### 🔗 Контакты
+
+<p align="left">
+  <a href="https://t.me/Roma7ska" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://steamcommunity.com/id/Roma7ska/" target="_blank">
+    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
+  </a>
+  <a href="https://www.ea.com/ea-play" target="_blank">
+    <img src="https://img.shields.io/badge/EA_Play-FF4747?style=for-the-badge&logo=ea&logoColor=white" />
+  </a>
 </p>
 
 ---
