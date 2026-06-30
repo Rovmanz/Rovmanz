@@ -1,6 +1,6 @@
 <h1 align="center">Привет, я Rσмα7ѕкα 👋</h1>
 
-<h3 align="center">14-летний разработчик из Беларуси, который любит создавать веб-проекты на Django.</h3>
+<h3 align="center">Разработчик из Беларуси, который любит что-то чудить.</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Rovmanz&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
